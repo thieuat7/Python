@@ -1,0 +1,21 @@
+# Bỏ qua các thư mục môi trường ảo
+venv/
+.env/
+
+# Bỏ qua các tệp tạm thời và biên dịch
+*.pyc
+*.pyo
+__pycache__/
+
+# Bỏ qua các tệp log
+*.log
+
+# Bỏ qua các cấu hình của IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Bỏ qua các tệp hệ thống
+.DS_Store
+Thumbs.db
